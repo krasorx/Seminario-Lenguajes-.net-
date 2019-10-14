@@ -1,0 +1,4 @@
+23.	Escriba un programa que muestre todos los números primos entre 1 y un número dado.
+ 	Para ello diseñe  una  función bool  EsPrimo  (int  n)que  indique  si nes  primo  o  no. 
+ 	Esta  función comprobará si nes divisible por algún número enteroentre 2 y la raíz cuadrada de n.
+		 (Nota: para calcular la raiz cuadrada utilice Math.sqrt()

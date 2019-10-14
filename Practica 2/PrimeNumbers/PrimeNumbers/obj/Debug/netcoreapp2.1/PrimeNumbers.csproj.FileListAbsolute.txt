@@ -1,0 +1,11 @@
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp2.1\PrimeNumbers.deps.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp2.1\PrimeNumbers.runtimeconfig.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp2.1\PrimeNumbers.runtimeconfig.dev.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp2.1\PrimeNumbers.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp2.1\PrimeNumbers.pdb
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp2.1\PrimeNumbers.csprojAssemblyReference.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp2.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp2.1\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp2.1\PrimeNumbers.AssemblyInfo.cs
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp2.1\PrimeNumbers.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 2\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp2.1\PrimeNumbers.pdb

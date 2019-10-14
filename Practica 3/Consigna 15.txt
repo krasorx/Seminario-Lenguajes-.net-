@@ -1,0 +1,6 @@
+15.Utilice  la  clase queue(cola)  para  implementar  un  programa  
+que  realice  el  cifrado  de  un  texto aplicando  la  técnica  de
+clave  repetitiva.  La  técnica  de  clave  repetitiva  consiste  en
+desplazar  un carácter una cantidad constante de acuerdo a la lista
+de valores que se encuentra en la clave. Por ejemplo: para la siguiente
+tabla de caracteres:

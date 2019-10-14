@@ -1,0 +1,10 @@
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\bin\Debug\netcoreapp2.1\PerfectlyBal.deps.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\bin\Debug\netcoreapp2.1\PerfectlyBal.runtimeconfig.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\bin\Debug\netcoreapp2.1\PerfectlyBal.runtimeconfig.dev.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\bin\Debug\netcoreapp2.1\PerfectlyBal.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\bin\Debug\netcoreapp2.1\PerfectlyBal.pdb
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\obj\Debug\netcoreapp2.1\PerfectlyBal.csproj.CoreCompileInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\obj\Debug\netcoreapp2.1\PerfectlyBal.AssemblyInfoInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\obj\Debug\netcoreapp2.1\PerfectlyBal.AssemblyInfo.cs
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\obj\Debug\netcoreapp2.1\PerfectlyBal.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 3\Enunciado14\PerfectlyBa\PerfectlyBal\obj\Debug\netcoreapp2.1\PerfectlyBal.pdb
