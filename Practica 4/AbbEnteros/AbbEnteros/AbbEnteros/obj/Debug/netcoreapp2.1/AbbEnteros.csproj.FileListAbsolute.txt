@@ -1,0 +1,11 @@
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\obj\Debug\netcoreapp2.1\AbbEnteros.csprojAssemblyReference.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\obj\Debug\netcoreapp2.1\AbbEnteros.csproj.CoreCompileInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\obj\Debug\netcoreapp2.1\AbbEnteros.AssemblyInfoInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\obj\Debug\netcoreapp2.1\AbbEnteros.AssemblyInfo.cs
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\bin\Debug\netcoreapp2.1\AbbEnteros.deps.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\bin\Debug\netcoreapp2.1\AbbEnteros.runtimeconfig.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\bin\Debug\netcoreapp2.1\AbbEnteros.runtimeconfig.dev.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\bin\Debug\netcoreapp2.1\AbbEnteros.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\bin\Debug\netcoreapp2.1\AbbEnteros.pdb
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\obj\Debug\netcoreapp2.1\AbbEnteros.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\AbbEnteros\AbbEnteros\obj\Debug\netcoreapp2.1\AbbEnteros.pdb
