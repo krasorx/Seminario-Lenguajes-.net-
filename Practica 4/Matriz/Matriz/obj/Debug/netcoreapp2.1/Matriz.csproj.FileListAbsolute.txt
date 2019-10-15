@@ -1,0 +1,11 @@
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.deps.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.runtimeconfig.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.runtimeconfig.dev.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.pdb
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.csprojAssemblyReference.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.AssemblyInfoInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.AssemblyInfo.cs
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 4\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.pdb

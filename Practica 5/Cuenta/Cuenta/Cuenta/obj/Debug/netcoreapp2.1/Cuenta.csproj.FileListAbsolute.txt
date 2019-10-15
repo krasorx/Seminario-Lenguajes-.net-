@@ -1,0 +1,11 @@
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\bin\Debug\netcoreapp2.1\Cuenta.deps.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\bin\Debug\netcoreapp2.1\Cuenta.runtimeconfig.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\bin\Debug\netcoreapp2.1\Cuenta.runtimeconfig.dev.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\bin\Debug\netcoreapp2.1\Cuenta.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\bin\Debug\netcoreapp2.1\Cuenta.pdb
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\obj\Debug\netcoreapp2.1\Cuenta.csprojAssemblyReference.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\obj\Debug\netcoreapp2.1\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\obj\Debug\netcoreapp2.1\Cuenta.AssemblyInfoInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\obj\Debug\netcoreapp2.1\Cuenta.AssemblyInfo.cs
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\obj\Debug\netcoreapp2.1\Cuenta.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Cuenta\Cuenta\Cuenta\obj\Debug\netcoreapp2.1\Cuenta.pdb
