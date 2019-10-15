@@ -26,6 +26,7 @@ namespace CifradoPilado
             String msj;
             String clave;
             int colaFirst;
+            int dif;
 
             int[] codigo;
 
@@ -38,6 +39,7 @@ namespace CifradoPilado
             msj = Console.ReadLine();
             Console.Write("Ingresar la clave de cifrado : ");
             clave = Console.ReadLine();
+            dif = (msj.Length % clave.Length);
 
             int length = msj.Length;
             int cLength = clave.Length;
@@ -70,6 +72,14 @@ namespace CifradoPilado
                 Console.Write(" {0} ", codigo[j]);
             }
             Console.WriteLine();
+
+            while(dif > 0)
+            {
+                var a = cola.Dequeue();
+                cola.Enqueue(a);
+                dif--;
+            }
+
             DescifrarMensaje(codigo, cola);
             Console.Write("Codigo decifrado : ");
             for (int j = 0; j < codigo.Length; j++)
