@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GestionEmp
 {
-    class Empleado
+    public class Empleado
     {
         private string nombre;
         private int dni;
@@ -29,41 +29,66 @@ namespace GestionEmp
 
         protected virtual double CalcularSalario()
         {
-            return 0.0;
+            return this.salario;
         }
+
+        public virtual void AumentarSalario()
+        {
+            
+        }
+
     }
 
-    class Administrativo : Empleado
+    public class Administrativo : Empleado
     {
         private double premio;
 
-        public Administrativo() : base( nombre,  dni, fechaDeIngreso,  salarioBase)
+        public Administrativo(string nombre, int dni,DateTime fechaDeIngreso, double salarioBase, double premio) : base( nombre,  dni, fechaDeIngreso,  salarioBase)
         {
-
+            Premio = premio;
         }
 
         public double Premio { get => premio; set => premio = value; }
 
         protected override double CalcularSalario()
         {
-            return base.CalcularSalario() + (Premio);
+            return (base.CalcularSalario() + (Premio));
         }
+
+        public override void AumentarSalario()
+        {
+            int antiguedad = DateTime.Now.Year - base.FechaDeIngreso.Year;
+            SalarioBase += (antiguedad*(SalarioBase / 100)); // le sumo un 1% por cada año de antiguedad
+        }
+
     }
 
-    class Vendedor : Empleado
+    public class Vendedor : Empleado
     {
         private double comision;
 
-        public Vendedor() : base(string nombre, int dni, DateTime fechaDeIngreso, double salarioBase)
+        public Vendedor(string nombre, int dni, DateTime fechaDeIngreso, double salarioBase,double comision) : base( nombre,  dni, fechaDeIngreso, salarioBase)
         {
-
+            Comision = comision;
         }
 
         public double Comision { get => comision; set => comision = value; }
 
         protected override double CalcularSalario()
         {
-            return base.CalcularSalario() + Comision;
+            return (base.CalcularSalario() + Comision);
+        }
+
+        public override void AumentarSalario()
+        {
+            int antiguedad = DateTime.Now.Year - base.FechaDeIngreso.Year;
+            int a;
+            if (antiguedad < 10)
+                a = 5;
+            else
+                a = 10;
+
+            SalarioBase += (antiguedad * ((a * SalarioBase) / 100));
         }
     }
 
