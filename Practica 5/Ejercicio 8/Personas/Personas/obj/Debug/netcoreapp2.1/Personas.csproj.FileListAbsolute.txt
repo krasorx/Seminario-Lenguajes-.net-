@@ -1,0 +1,11 @@
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\bin\Debug\netcoreapp2.1\Personas.deps.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\bin\Debug\netcoreapp2.1\Personas.runtimeconfig.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\bin\Debug\netcoreapp2.1\Personas.runtimeconfig.dev.json
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\bin\Debug\netcoreapp2.1\Personas.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\bin\Debug\netcoreapp2.1\Personas.pdb
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\obj\Debug\netcoreapp2.1\Personas.csprojAssemblyReference.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\obj\Debug\netcoreapp2.1\Personas.csproj.CoreCompileInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\obj\Debug\netcoreapp2.1\Personas.AssemblyInfoInputs.cache
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\obj\Debug\netcoreapp2.1\Personas.AssemblyInfo.cs
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\obj\Debug\netcoreapp2.1\Personas.dll
+C:\Users\luise\Google Drive\Licenciatura en Sistemas\2DO Año\2DO SEMESTRE\POINTO NETO\PRACTICA\Ejercicios Coloquio\Practica 5\Ejercicio 8\Personas\Personas\obj\Debug\netcoreapp2.1\Personas.pdb
