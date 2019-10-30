@@ -1,0 +1,11 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\bin\Debug\netcoreapp2.0\Ejercicio15EsteSi.deps.json
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\bin\Debug\netcoreapp2.0\Ejercicio15EsteSi.runtimeconfig.json
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\bin\Debug\netcoreapp2.0\Ejercicio15EsteSi.runtimeconfig.dev.json
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\bin\Debug\netcoreapp2.0\Ejercicio15EsteSi.dll
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\bin\Debug\netcoreapp2.0\Ejercicio15EsteSi.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\obj\Debug\netcoreapp2.0\Ejercicio15EsteSi.csprojResolveAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\obj\Debug\netcoreapp2.0\Ejercicio15EsteSi.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\obj\Debug\netcoreapp2.0\Ejercicio15EsteSi.AssemblyInfoInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\obj\Debug\netcoreapp2.0\Ejercicio15EsteSi.AssemblyInfo.cs
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\obj\Debug\netcoreapp2.0\Ejercicio15EsteSi.dll
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 7\Ejercicio 15\Ejercicio15EsteSi\Ejercicio15EsteSi\obj\Debug\netcoreapp2.0\Ejercicio15EsteSi.pdb

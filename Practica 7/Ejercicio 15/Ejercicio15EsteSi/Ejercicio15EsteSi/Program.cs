@@ -11,10 +11,7 @@ class Program
         Console.ReadKey();
     }
 
-    public static void contarPalabras()
-    {
-        
-    }
+
 
 }
 class Palabras
@@ -26,7 +23,7 @@ class Palabras
     {
         Lector miLector = new Lector();
         contarPalabras = unaMas;
-        miLector.Leer(contarPalabras);
+        miLector.Leer(unaMas);
         Console.WriteLine("Cantidad de palabras leídas: {0}", cantPalabras);
     }
     private void unaMas()
@@ -37,7 +34,6 @@ class Palabras
 }
 class Lector
 {
-    public Palabras padre;
     public void Leer(Action action)
     {
         Console.WriteLine("Ingrese una palabra por línea");
