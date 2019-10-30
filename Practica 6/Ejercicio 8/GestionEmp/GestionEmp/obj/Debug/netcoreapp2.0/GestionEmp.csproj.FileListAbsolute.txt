@@ -1,0 +1,11 @@
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\bin\Debug\netcoreapp2.0\GestionEmp.deps.json
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\bin\Debug\netcoreapp2.0\GestionEmp.runtimeconfig.json
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\bin\Debug\netcoreapp2.0\GestionEmp.runtimeconfig.dev.json
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\bin\Debug\netcoreapp2.0\GestionEmp.dll
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\bin\Debug\netcoreapp2.0\GestionEmp.pdb
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\obj\Debug\netcoreapp2.0\GestionEmp.csprojResolveAssemblyReference.cache
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\obj\Debug\netcoreapp2.0\GestionEmp.csproj.CoreCompileInputs.cache
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\obj\Debug\netcoreapp2.0\GestionEmp.AssemblyInfoInputs.cache
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\obj\Debug\netcoreapp2.0\GestionEmp.AssemblyInfo.cs
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\obj\Debug\netcoreapp2.0\GestionEmp.dll
+C:\Users\luise\Source\Repos\Seminario-Lenguajes-.net-\Practica 6\Ejercicio 8\GestionEmp\GestionEmp\obj\Debug\netcoreapp2.0\GestionEmp.pdb

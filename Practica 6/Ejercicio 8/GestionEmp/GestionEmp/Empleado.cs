@@ -24,12 +24,11 @@ namespace GestionEmp
             DNI = dni;
             FechaDeIngreso = fechaDeIngreso;
             SalarioBase = salarioBase;
-
         }
 
         protected virtual double CalcularSalario()
         {
-            return this.salario;
+            return salarioBase;
         }
 
         public virtual void AumentarSalario()
