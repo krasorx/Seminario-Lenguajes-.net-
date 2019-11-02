@@ -1,0 +1,7 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\bin\Debug\PrecioCambiadoEventHandler.exe.config
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\bin\Debug\PrecioCambiadoEventHandler.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\bin\Debug\PrecioCambiadoEventHandler.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\obj\Debug\PrecioCambiado.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\obj\Debug\PrecioCambiado.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\obj\Debug\PrecioCambiadoEventHandler.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\A\Ejercicio 3\PrecioCambiadoEventHandler\PrecioCambiadoEventHandler\obj\Debug\PrecioCambiadoEventHandler.pdb
