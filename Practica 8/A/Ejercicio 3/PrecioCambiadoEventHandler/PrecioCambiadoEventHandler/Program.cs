@@ -43,20 +43,16 @@ namespace PrecioCambiado
     {
         public PrecioCambiadoEventHandler precioCambiado;
         private double precio;
-        private double precioOld;
-        private double precioNew;
         private int codigo;
 
         public double Precio { get => precio; set => PreciosCambiados(value, Precio); }
         public int Codigo { get => codigo; set => codigo = value; }
-        public double PrecioOld { get => precioOld; private set => precioOld = value; }
-        public double PrecioNew { get => precioNew; private set => precioNew = value; }
 
         public void PreciosCambiados(double newPrice,double oldPrice)
         {
             
             this.precio = newPrice;
-            if (precioCambiado != null)
+            if ((precioCambiado != null) && (oldPrice != newPrice))
                 precioCambiado(this, new PrecioCambiadoEventArgs() { Codigo = Codigo, PrecioAnterior = oldPrice, PrecioNuevo = newPrice });
 
         }
