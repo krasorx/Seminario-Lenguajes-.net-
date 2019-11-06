@@ -1,0 +1,10 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\bin\Debug\TamañoLabel.exe.config
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\bin\Debug\TamañoLabel.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\bin\Debug\TamañoLabel.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.FrmMain.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.Properties.Resources.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 1\TamañoLabel\TamañoLabel\obj\Debug\TamañoLabel.pdb
