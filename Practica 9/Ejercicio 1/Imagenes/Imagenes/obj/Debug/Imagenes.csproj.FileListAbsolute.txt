@@ -1,0 +1,11 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\bin\Debug\Imagenes.exe.config
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\bin\Debug\Imagenes.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\bin\Debug\Imagenes.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.Properties.Resources.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.FrmMain.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 9\Ejercicio 1\Imagenes\Imagenes\obj\Debug\Imagenes.FrmPresentation.resources
