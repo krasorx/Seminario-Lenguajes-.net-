@@ -1,0 +1,10 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\bin\Debug\MoverLabel.exe.config
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\bin\Debug\MoverLabel.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\bin\Debug\MoverLabel.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.FrmMain.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.Properties.Resources.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 8\B\Ejercicio 2\MoverLabel\MoverLabel\obj\Debug\MoverLabel.pdb
