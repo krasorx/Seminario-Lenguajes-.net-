@@ -1,0 +1,10 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\bin\Debug\OrdenesClientes.exe.config
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\bin\Debug\OrdenesClientes.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\bin\Debug\OrdenesClientes.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.FrmMain.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.Properties.Resources.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 10\Ejercicio 3\OrdenesClientes\OrdenesClientes\obj\Debug\OrdenesClientes.pdb
