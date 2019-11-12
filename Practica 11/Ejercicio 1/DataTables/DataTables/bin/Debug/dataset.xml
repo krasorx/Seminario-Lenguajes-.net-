@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<MyDataSet>
+  <Personas>
+    <Nombre>Diego</Nombre>
+    <Apellido>Brando</Apellido>
+    <Edad>23</Edad>
+  </Personas>
+  <Personas>
+    <Nombre>Jonathan</Nombre>
+    <Apellido>Joestar</Apellido>
+    <Edad>22</Edad>
+  </Personas>
+  <Personas>
+    <Nombre>Mohamed</Nombre>
+    <Apellido>Abdul</Apellido>
+    <Edad>32</Edad>
+  </Personas>
+  <Personas>
+    <Nombre>Funny</Nombre>
+    <Apellido>Valentine</Apellido>
+    <Edad>53</Edad>
+  </Personas>
+  <Personas>
+    <Nombre>Ricardo</Nombre>
+    <Apellido>Milos</Apellido>
+    <Edad>44</Edad>
+  </Personas>
+  <Personas>
+    <Nombre>Bruno</Nombre>
+    <Apellido>Buccerati</Apellido>
+    <Edad>22</Edad>
+  </Personas>
+  <Personas>
+    <Nombre>Narancia</Nombre>
+    <Apellido>Girgha</Apellido>
+    <Edad>16</Edad>
+  </Personas>
+</MyDataSet>

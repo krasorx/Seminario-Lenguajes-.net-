@@ -1,0 +1,11 @@
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\bin\Debug\DataTables.exe.config
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\bin\Debug\DataTables.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\bin\Debug\DataTables.pdb
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTablesXML.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTables.FrmMain.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTables.FrmBorrarFila.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTables.Properties.Resources.resources
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTablesXML.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTablesXML.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTables.exe
+C:\Users\luise\source\repos\Seminario-Lenguajes-.net-\Practica 11\Ejercicio 1\DataTables\DataTables\obj\Debug\DataTables.pdb
